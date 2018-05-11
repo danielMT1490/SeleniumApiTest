@@ -1,0 +1,14 @@
+C:\Users\Daniel Madrigal\source\repos\SeleniumApiTest\SeleniumApiTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Daniel Madrigal\source\repos\SeleniumApiTest\SeleniumApiTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Daniel Madrigal\source\repos\SeleniumApiTest\SeleniumApiTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Daniel Madrigal\source\repos\SeleniumApiTest\SeleniumApiTest\bin\Debug\netcoreapp2.0\SeleniumApiTest.deps.json
+C:\Users\Daniel Madrigal\source\repos\SeleniumApiTest\SeleniumApiTest\bin\Debug\netcoreapp2.0\SeleniumApiTest.runtimeconfig.json
+C:\Users\Daniel Madrigal\source\repos\SeleniumApiTest\SeleniumApiTest\bin\Debug\netcoreapp2.0\SeleniumApiTest.runtimeconfig.dev.json
+C:\Users\Daniel Madrigal\source\repos\SeleniumApiTest\SeleniumApiTest\bin\Debug\netcoreapp2.0\SeleniumApiTest.dll
+C:\Users\Daniel Madrigal\source\repos\SeleniumApiTest\SeleniumApiTest\obj\Debug\netcoreapp2.0\SeleniumApiTest.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Madrigal\source\repos\SeleniumApiTest\SeleniumApiTest\obj\Debug\netcoreapp2.0\SeleniumApiTest.AssemblyInfoInputs.cache
+C:\Users\Daniel Madrigal\source\repos\SeleniumApiTest\SeleniumApiTest\obj\Debug\netcoreapp2.0\SeleniumApiTest.AssemblyInfo.cs
+C:\Users\Daniel Madrigal\source\repos\SeleniumApiTest\SeleniumApiTest\bin\Debug\netcoreapp2.0\SeleniumApiTest.pdb
+C:\Users\Daniel Madrigal\source\repos\SeleniumApiTest\SeleniumApiTest\obj\Debug\netcoreapp2.0\SeleniumApiTest.dll
+C:\Users\Daniel Madrigal\source\repos\SeleniumApiTest\SeleniumApiTest\obj\Debug\netcoreapp2.0\SeleniumApiTest.pdb
+C:\Users\Daniel Madrigal\source\repos\SeleniumApiTest\SeleniumApiTest\obj\Debug\netcoreapp2.0\SeleniumApiTest.csprojResolveAssemblyReference.cache
